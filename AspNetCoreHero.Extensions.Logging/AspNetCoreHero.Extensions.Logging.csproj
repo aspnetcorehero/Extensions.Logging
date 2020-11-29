@@ -7,7 +7,7 @@
     <Authors>Mukesh Murugan</Authors>
     <Company>aspnetcorehero</Company>
     <Product>AspNetCoreHero.Extensions.Logging</Product>
-    <Description>Collection of Common Logging Frameworks to improve code reusability within projects.</Description>
+    <Description>Collection of Common Logging Frameworks to improve code re-usability within projects.</Description>
     <Copyright>2020</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <AssemblyVersion>1.0.0</AssemblyVersion>
